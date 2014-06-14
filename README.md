@@ -2,8 +2,8 @@ actividad
 =========
 
 yessenia.P2
-package.yessenia;
-Pakimport java.awt.Color;
+packageyessenia;
+Pakimprt java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
