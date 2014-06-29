@@ -9,7 +9,7 @@ import java.awt.event.ActionListener;
 
 import javax.swing.*;
 
-public class FrameCurso extends JFrame  {
+public class Frame extends JFrame  {
 	
 	private JPanel xpanel1, xpanel2, xpanel3;
 	JTextField xcamponombre=new JTextField();
